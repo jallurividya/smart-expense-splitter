@@ -57,17 +57,10 @@ It simplifies tracking who paid, who owes, and minimizes transactions for easy s
 
 ### 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/your-username/expense-splitter.git
-cd expense-splitter
-```
-
----
-
 ### 2️⃣ Setup Frontend
 
 ```bash
-cd frontend
+git clone https://github.com/jallurividya/smart-expense-splitter.git
 npm install
 npm run dev
 ```
@@ -77,7 +70,7 @@ npm run dev
 ### 3️⃣ Setup Backend
 
 ```bash
-cd backend
+git clone https://github.com/jallurividya/smart-expense-splitter-backend.git
 npm install
 node index.js
 ```
@@ -90,7 +83,7 @@ Create a `.env` file in backend:
 
 ```
 SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_anon_key
+SUPABASE_KEY=your_supabase_key
 ```
 
 ---
