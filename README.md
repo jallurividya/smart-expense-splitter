@@ -5,6 +5,13 @@ It simplifies tracking who paid, who owes, and minimizes transactions for easy s
 
 ---
 
+## Links
+
+* Frontend: https://smart-expense-splitter-gold-sigma.vercel.app/
+* Backend: https://smart-expense-splitter-backend-rfq8.onrender.com
+
+---
+
 ## 🚀 Features
 
 * 👥 Create groups and add members
